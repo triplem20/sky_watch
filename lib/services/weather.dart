@@ -4,7 +4,7 @@ import 'package:sky_watch/services/networking.dart';
 
 
 
-const apiKey='af25bfe79a409646ce26d735411d7cea';
+const apiKey='apikey';
 const openWeatherMapUrl ='https://api.openweathermap.org/data/2.5/weather';
 
 
